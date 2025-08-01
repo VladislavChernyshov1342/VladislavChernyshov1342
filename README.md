@@ -3,11 +3,11 @@
 
 ### Backend
 - **Python**  
-  Django Framework  
-  FastAPI  
-  Nginx  
-  Docker  
-  Git
+- **Django Framework**  
+- **FastAPI**
+- **Nginx**  
+- **Docker**  
+-  **Git**
 
 ### Базы данных
 - **PostgreSQL**  
