@@ -2,7 +2,7 @@
 ## 🛠Стек:
 
 ### Backend
-- **Python**  
+- 🐍**Python**  
 - **Django Framework**  
 - **FastAPI**
 - **Nginx**  
