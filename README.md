@@ -14,7 +14,7 @@
 - **MySQL**
 
 ### Статистика GitHub
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ваш-username&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=VladislavChernyshov1342&show_icons=true&theme=dark)
 
 ### Самые используемые языки
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш-username&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavChernyshov1342&layout=compact&theme=dark)
