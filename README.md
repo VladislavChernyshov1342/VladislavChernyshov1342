@@ -8,6 +8,7 @@
 - **Nginx**  
 - **Docker**  
 -  **Git**
+-  **Linux**
 
 ### Базы данных
 - **PostgreSQL**  
