@@ -1,22 +1,27 @@
-# 👋Привет, меня зовут Владислав!
+Привет![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Меня зовут Владислав!
+===================================================================================================================================
 
-## 🛠Мой стек:
+Backend-разработчик на Python
+-----------------------------
 
-### Backend
-- 🐍**Python**  
-- **Django Framework**  
-- **FastAPI**
-- **Nginx**  
-- **Docker**  
--  **Git**
--  **Linux**
+Познакомился с языком Python через моих знакомых и друзей, когда к программированию не имел никакого отношения, всегда хотел стать разработчиком игр и различной инфраструктуры для них. Но когда открыл для себя backend направление, мне стало интересно попробовать себя в этом направлении. Начал знакомство с языком Python через прохождение курсов на Stepik и просмотра различных материалов по данному языку. Потом закончил курсы от Яндекс Практикума по направлению Backend-разработчик на Python.
 
-### Базы данных
-- **PostgreSQL**  
-- **MySQL**
+* 🌍  Я живу в России, город Москва.
+* ✉️  You can contact me at [vvv134231979WWW@yandex.ru](mailto:vvv134231979WWW@yandex.ru)
 
-### Статистика GitHub
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=VladislavChernyshov1342&show_icons=true&theme=dark)
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+</p>
 
-### Самые используемые языки
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavChernyshov1342&layout=compact&theme=dark)
+### Socials
+
+<p align="left"> <a href="https://www.github.com/VladislavChernyshov1342" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://discord.com/users/-VOVANII-" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/VladislavChernyshov1342"><img src="https://github-readme-stats.vercel.app/api?username=VladislavChernyshov1342&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=10b981&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="VladislavChernyshov1342's GitHub stats" /></a>
+
+<a href="http://www.github.com/VladislavChernyshov1342"><img src="https://github-readme-streak-stats.herokuapp.com/?user=VladislavChernyshov1342&stroke=10b981&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=10b981&currStreakLabel=ffffff&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
+
+<a href="https://github.com/VladislavChernyshov1342" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavChernyshov1342&langs_count=10&title_color=ffffff&text_color=10b981&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
