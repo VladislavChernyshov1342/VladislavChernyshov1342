@@ -1,4 +1,6 @@
-![Анимированная картинка](<div class="tenor-gif-embed" data-postid="26592663" data-share-method="host" data-aspect-ratio="1.54589" data-width="100%"><a href="https://tenor.com/view/cyber-punk-gif-26592663">Cyber Punk GIF</a>from <a href="https://tenor.com/search/cyber+punk-gifs">Cyber Punk GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)
+<p align="center">
+  <img src="https://media1.tenor.com/m/Dbmhfmz-EAQAAAAd/cyber-punk.gif" alt="Cyber Punk Animation" width="400"/>
+</p>
 Привет![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Меня зовут Владислав!
 ===================================================================================================================================
 
