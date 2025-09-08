@@ -25,6 +25,12 @@ Backend-разработчик на Python
       <source media="(prefers-color-scheme: light)" srcset="https://vk.com/images/icons/favicons/fav_logo.ico?8" /> 
       <img src="https://vk.com/images/icons/favicons/fav_logo.ico?8" width="32" height="32" alt="VK" title="VKontakte" /> 
     </picture> 
+  </a><a href="https://t.me/VOVANII" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://web.telegram.org/a/favicon.ico" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://web.telegram.org/a/favicon.ico" /> 
+      <img src="https://web.telegram.org/a/favicon.ico" width="32" height="32" alt="Telegram" title="Telegram" /> 
+    </picture> 
   </a>
 </p>
 
