@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/Dbmhfmz-EAQAAAAd/cyber-punk.gif" alt="Cyber Punk Animation" style="width:100%"/>
+  <img src="https://media1.tenor.com/m/Qn6S5_GZfbgAAAAd/night-city-cyberpunk2077.gif" alt="Cyber Punk Animation" style="width:100%"/>
 </p>
 
 Привет![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Меня зовут Владислав!
