@@ -44,6 +44,5 @@ Backend-разработчик на Python
 
 ## 🙏 Спасибо что зашёл!
 
-<p align="center">
-  <img src="https://c.tenor.com/PTiTB93JjUEAAAAd/tenor.gif" alt="Thank You" style="width:100%; max-width:400px; height:auto;">
-</p>
+
+  <img src="https://c.tenor.com/PTiTB93JjUEAAAAd/tenor.gif" alt="Thank You" width="400">
