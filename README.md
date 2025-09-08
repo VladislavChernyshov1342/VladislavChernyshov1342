@@ -44,9 +44,7 @@ Backend-разработчик на Python
 
 ## 🙏 Спасибо что зашёл!
 
-<div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-    <div style="font-size: 24px; font-weight: bold;">Спасибо что зашёл!</div>
-    <img src="thank-you.gif" alt="Thank You GIF" width="150">
-  </div>
-</div>
+<p align="center">
+  <strong>Спасибо что зашёл!</strong>
+  <img src="thank-you.gif" alt="Thank You GIF" width="150" style="margin-left: 20px;">
+</p>
