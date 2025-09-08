@@ -42,9 +42,5 @@ Backend-разработчик на Python
 
 <a href="https://github.com/VladislavChernyshov1342" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavChernyshov1342&langs_count=10&title_color=ffffff&text_color=10b981&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-## 🙏 Спасибо что зашёл!
-
-<p align="center">
-  <strong>Спасибо что зашёл!</strong>
-  <img src="thank-you.gif" alt="Thank You GIF" width="150" style="margin-left: 20px;">
-</p>
+## 🤝 Спасибо что зашёл!
+<img src="thank-you.gif" alt="Thank You GIF" width="400">
